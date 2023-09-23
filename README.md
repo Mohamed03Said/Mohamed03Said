@@ -1,6 +1,6 @@
 <h1 align='center'> Hi 👋, I'm Mohamed Said </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Ali-Elshorpagi&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed-Said"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohamed03Said&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed03Said"/> </p>
 
 - I'm a CS Student 💻
 - I'm interested in problem solving and learning the fundamentals of programming 💻
@@ -10,7 +10,7 @@
 <p align="center"> 
   &emsp; 
   <a href="https://devdocs.io/c/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/C#%20-%232370ED.svg?style=plastic&logo=c&logoColor=white">
   </a> 
   &emsp;
   <a href="https://cplusplus.com/doc/" target="_blank"> 
