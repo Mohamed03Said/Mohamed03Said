@@ -12,8 +12,13 @@
   <a href="https://cplusplus.com/doc/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
+   &emsp;
   <a href="https://csharp.com/doc/" target="_blank"> 
     <img alt="C++" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+  </a> 
+   &emsp;
+  <a href="https://dotnet/doc/" target="_blank"> 
+    <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   </a> 
     &emsp;
     <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
