@@ -14,11 +14,11 @@
   </a> 
    &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
+    <img alt="C#" src="https://img.shields.io/badge/C#%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
    &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank"> 
-    <img alt=".Net" src="https://img.shields.io/badge/dotnet-%23181717.svg?style=plastic&logo=github&logoColor=white">
+    <img alt=".Net" src="https://img.shields.io/badge/.net%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
     &emsp;
     <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
