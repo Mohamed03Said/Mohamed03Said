@@ -18,7 +18,7 @@
   </a> 
    &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank"> 
-    <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img alt=".Net" src="https://img.shields.io/badge/dotnet-%23181717.svg?style=plastic&logo=github&logoColor=white">
   </a> 
     &emsp;
     <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
