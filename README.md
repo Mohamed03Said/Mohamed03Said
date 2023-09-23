@@ -17,6 +17,10 @@
     <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white">
   </a> 
     &emsp;
+  <a
+ ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  </a> 
+    &emsp;
     <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?style=plastic&logo=git&logoColor=white"></a>
   &emsp;
     <a href="https://docs.github.com/en"><img alt="GitHub" src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white"></a>
@@ -34,7 +38,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mohamed03Said&show_icons=true&locale=en&theme=radical" alt="Mohamed03Said" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed03Said&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohamed03Said"/> </p>
-
-
-
-1
