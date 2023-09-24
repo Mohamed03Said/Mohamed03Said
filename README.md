@@ -21,9 +21,11 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Connect with me
 
 <p align="center">
-<a href="mailto:mohamedsaid3403@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
- &emsp;
-<a href="https://www.linkedin.com/in/mohamed-said-361642225/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/mohamed-said-361642225/" target="_blank">
+<img align="center" src="https://img.icons8.com/?size=512&id=67570&format=png" alt="linkedin" height="56" width="56" />
+</a> &ensp;
+<a href="mailto:mohamedsaid3403@gmail.com" target="_blank">
+<img align="center" src="https://img.icons8.com/?size=512&id=aZirgpcZkzvm&format=png" alt="gmail" height="56" width="56" />
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 
