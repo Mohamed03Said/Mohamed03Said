@@ -1,6 +1,5 @@
 <h1 align='center'> Hi 👋, I'm Mohamed Said </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Mohamed03Said&label=Profile%20views&color=0e75b6&style=flat" alt="Mohamed03Said"/> </p>
 
 - I'm a CS Student 💻
 - I'm interested in problem solving and learning the fundamentals of programming 💻
@@ -36,5 +35,4 @@
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Mohamed03Said&show_icons=true&locale=en&theme=radical" alt="Mohamed03Said"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed03Said&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohamed03Said"/> </p>
