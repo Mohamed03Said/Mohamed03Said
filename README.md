@@ -9,7 +9,7 @@
 <p align="center">
   &emsp;
   <a href="https://cplusplus.com/doc/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white">
+    <img alt="C++" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CPP.svg">
   </a> 
    &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
