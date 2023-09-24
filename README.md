@@ -13,7 +13,7 @@
   </a> 
    &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://skillicons.dev/icons?i=csharp" alt="c#" width="45" height="45">
+    <img alt="C#" src="https://skillicons.dev/icons?i=c-sharp" alt="c#" width="45" height="45">
   </a> 
    &emsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank"> 
