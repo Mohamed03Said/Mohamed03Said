@@ -7,23 +7,15 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 
 <p align="center">
-  &emsp;
-  <a href="https://cplusplus.com/doc/" target="_blank"> 
-    <img alt="C++" src="https://skillicons.dev/icons?i=cpp" alt="c++" width="45" height="45">
-  </a> 
-   &emsp;
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img alt="C#" src="https://skillicons.dev/icons?i=cs" alt="c#" width="45" height="45">
-  </a> 
-   &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=40669&format=png" alt="c++" width="45" height="45"/> </a> &ensp; 
+<a href="https://www.w3schools.com/cs/index.php" target="_blank"> <img src="https://img.icons8.com/?size=512&id=55251&format=png" alt="C#" width="45" height="45"/> </a> &ensp;
   <a href="https://learn.microsoft.com/en-us/dotnet/fundamentals/" target="_blank"> 
     <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
   </a> 
-    &emsp;
-    <a href="https://git-scm.com/doc"><img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="https://docs.github.com/en"><img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
-  &emsp;
+  &ensp;
+<a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=20906&format=png" alt="git" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
+ <a href="https://github.com/" target="_blank"> <img src="https://img.icons8.com/?size=512&id=63777&format=png" alt="github" width="45" height="45" style="border-radius: 50%;"></a>&ensp;
+ 
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Connect with me
