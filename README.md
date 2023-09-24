@@ -30,6 +30,7 @@
 
 <p align="center">
 <a href="mailto:mohamedsaid3403@gmail.com"><img img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+ &emsp;
 <a href="https://www.linkedin.com/in/mohamed-said-361642225/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
