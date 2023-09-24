@@ -33,5 +33,5 @@
 <a href="https://www.linkedin.com/in/mohamed-said-361642225/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
-
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed03Said&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohamed03Said"/> </p>
