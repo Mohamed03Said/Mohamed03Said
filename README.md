@@ -17,8 +17,8 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Connect with me
 
-<p align="center">
->a href="https://www.linkedin.com/in/mohamed-said-361642225" target="_blank">
+<p align="center"> 
+<a href="https://www.linkedin.com/in/mohamed-said-361642225" target="_blank">
 <img align="center" src="https://img.icons8.com/?size=48&id=xuvGCOXi8Wyg&format=png" alt="linkedin" height="50" width="50" />
 </a> &ensp;
 <a href="mailto:mohamedsaid3403@gmail.com" target="_blank">
