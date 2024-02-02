@@ -8,6 +8,7 @@
 
 - I'm a CS Student 💻
 - I'm interested in problem solving and learning the fundamentals of programming 💻
+- I’m currently learning ASP.Net Core
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 
