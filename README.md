@@ -1,7 +1,7 @@
 <h1 align='center'> Hi 👋, I'm Mohamed Said </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Backend%20Developer;&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF009A&random=false&width=349&height=28&lines=A+Passionate+Backend+Engineer" alt="Typing SVG" /></a>
   <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
 </p> 
 
@@ -22,7 +22,7 @@
  
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Connect with me
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Contact with me
 
 <p align="center"> 
 <a href="https://www.linkedin.com/in/mohamed-said-361642225" target="_blank">
@@ -33,4 +33,7 @@
 </p>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed03Said&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohamed03Said"/> </p>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed03Said&show_icons=true&locale=en&theme=radical" alt="Mohamed03Said" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed03Said&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohamed03Said"/>
+</div>
