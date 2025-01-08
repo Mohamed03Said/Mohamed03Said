@@ -34,6 +34,6 @@
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed03Said&show_icons=true&locale=en&theme=radical" alt="Mohamed03Said" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed03Said&show_icons=true&locale=en&layout=compact&theme=radical" alt="Mohamed03Said"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Mohamed03Said&show_icons=true&theme=radical&show=prs_merged" alt="Mohamed03Said" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed03Said&layout=donut&theme=radical" alt="Mohamed03Said"/>
 </div>
