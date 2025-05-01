@@ -1,19 +1,11 @@
-<h1 align='center'> Hi 👋, I'm Mohamed Said </h1>
+## Hi there 👋,
 
-<p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF009A&random=false&width=349&height=28&lines=A+Passionate+Backend+Engineer" alt="Typing SVG" /></a>
-  <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1100px height=95px>
-</p> 
-
-
-- I'm a CS Student 💻
-- I'm interested in problem solving and learning the fundamentals of computer science 💻
-- I'm passionate about Back-End Development, and continuous learning. 🌟
+ I'm Mohamed Said, a CS student passionate about software development, interested in the core principles of computer science and problem solving. Currently focused on back-end development
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 
 <p align="center">
-  <a target="_blank"> <img src="https://skillicons.dev/icons?i=cpp,cs,git,mysql,dotnet,postman&perline=9"/> </a>
+  <a target="_blank"> <img src="https://skillicons.dev/icons?i=cpp,cs,git,mysql,dotnet,postman,docker&perline=9"/> </a>
  
 </p>
 
@@ -31,8 +23,12 @@
 </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Mohamed03Said&show_icons=true&theme=radical&show=prs_merged" alt="Mohamed03Said" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed03Said&layout=donut&theme=radical" alt="Mohamed03Said"/>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Github Stats
+
+<div align='center'>  
+
+![](https://github-readme-stats.vercel.app/api?username=Mohamed03Said&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mohamed03Said&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed03Said&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </div>
