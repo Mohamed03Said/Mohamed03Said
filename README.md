@@ -5,7 +5,7 @@
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> Skills & Tools
 
 <p align="center">
-  <a target="_blank"> <img src="https://skillicons.dev/icons?i=cpp,cs,git,mysql,dotnet,postman,docker&perline=9"/> </a>
+  <a target="_blank"> <img src="https://skillicons.dev/icons?i=c,cpp,cs,git,mysql,dotnet,postman,docker&perline=9"/> </a>
  
 </p>
 
@@ -27,7 +27,7 @@
 
 <div align='center'>  
 
-![](https://github-readme-stats.vercel.app/api?username=Mohamed03Said&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Mohamed03Said&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohamed03Said&theme=shadow_blue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed03Said&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
