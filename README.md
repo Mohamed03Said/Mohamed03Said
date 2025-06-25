@@ -27,8 +27,8 @@
 
 <div align='center'>  
 
-![](https://github-readme-stats.vercel.app/api?username=Mohamed03Said&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mohamed03Said&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed03Said&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mohamed-said03&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mohamed-said03&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-said03&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
